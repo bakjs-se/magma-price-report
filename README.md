@@ -40,3 +40,4 @@ open _site/index.html      # 만들어진 리포트를 브라우저로 열기
 
 배포 주소는 보통 `https://<your-id>.github.io/magma-price-report/` 입니다.
 연습용 메모 한 줄
+연습용 메모 한 줄2
